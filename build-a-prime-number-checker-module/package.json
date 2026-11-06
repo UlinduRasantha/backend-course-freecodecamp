@@ -1,0 +1,15 @@
+{
+  "name": "prime-checker",
+  "version": "1.0.0",
+  "description": "check  number is primary number or not",
+  "keywords": [
+    "math"
+  ],
+  "license": "ISC",
+  "author": "ulindu",
+  "type": "commonjs",
+  "main": " index.js",
+  "scripts": {
+    "test": "node index.js"
+  }
+}
